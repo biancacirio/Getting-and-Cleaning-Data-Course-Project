@@ -37,5 +37,5 @@ How Does the R script (`run_analysis.R`) works?
 8.  The data is summarized by average per each subject and activity
 
 The final output of this project should be a tidy data set with
-descriptive column names, desriptive activity labels, and summarized
+descriptive column names, descriptive activity labels, and summarized
 values (average).
