@@ -11,8 +11,8 @@ downstairs, standing, sitting, and laying.
 FILES
 -----
 
-In this github repository you will see four files, namely: a) README.md:
-an overview of the project and workflow of the R script  
+In this github repository you will see four files, namely:  
+a) README.md: an overview of the project and workflow of the R script  
 b) CODEBOOK.md: details of the data, variables, and transformations used
 and done to come up with a tidy data set  
 c) `run_analysis.R`: R script used to process the raw data and come up
