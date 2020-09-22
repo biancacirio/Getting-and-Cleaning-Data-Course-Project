@@ -17,7 +17,9 @@ b) CODEBOOK.md: details of the data, variables, and transformations used
 and done to come up with a tidy data set  
 c) `run_analysis.R`: R script used to process the raw data and come up
 with the final output  
-d) TIDYDataset.txt: the final output of the project
+d) TIDYDataset.txt: the final output of the project  
+Note: To view the same ouput with the text file uploaded in the coursera
+website, kindly click or select the “Raw” option upon viewing this file
 
 R SCRIPT WORKFLOW
 -----------------
